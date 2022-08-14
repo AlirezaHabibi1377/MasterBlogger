@@ -1,0 +1,10 @@
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Domain.deps.json
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.AssemblyReference.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.AssemblyInfoInputs.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.AssemblyInfo.cs
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.CoreCompileInputs.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.pdb

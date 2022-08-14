@@ -1,0 +1,15 @@
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.deps.json
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.AssemblyReference.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfoInputs.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfo.cs
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CoreCompileInputs.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CopyComplete
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.pdb

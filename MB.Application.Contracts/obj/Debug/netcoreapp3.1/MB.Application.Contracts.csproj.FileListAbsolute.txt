@@ -1,0 +1,10 @@
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application.Contracts\bin\Debug\netcoreapp3.1\MB.Application.Contracts.deps.json
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application.Contracts\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application.Contracts\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.csproj.AssemblyReference.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.AssemblyInfoInputs.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.AssemblyInfo.cs
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.pdb

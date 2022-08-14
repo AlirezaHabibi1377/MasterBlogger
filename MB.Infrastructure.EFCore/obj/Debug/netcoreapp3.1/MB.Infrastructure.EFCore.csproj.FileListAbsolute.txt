@@ -1,0 +1,16 @@
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.deps.json
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.AssemblyInfoInputs.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.AssemblyInfo.cs
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.runtimeconfig.json
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.runtimeconfig.dev.json
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.csproj.AssemblyReference.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.csproj.CopyComplete
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.genruntimeconfig.cache
