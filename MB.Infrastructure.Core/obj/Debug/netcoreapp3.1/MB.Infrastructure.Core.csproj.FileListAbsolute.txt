@@ -17,3 +17,5 @@ D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Core\obj\De
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Core\obj\Debug\netcoreapp3.1\MB.Infrastructure.Core.csproj.CopyComplete
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Core\obj\Debug\netcoreapp3.1\MB.Infrastructure.Core.dll
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Core\obj\Debug\netcoreapp3.1\MB.Infrastructure.Core.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Core\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Core\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb

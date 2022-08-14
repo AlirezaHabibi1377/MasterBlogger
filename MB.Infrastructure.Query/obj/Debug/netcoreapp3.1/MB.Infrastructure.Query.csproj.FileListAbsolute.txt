@@ -1,0 +1,17 @@
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.deps.json
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.AssemblyReference.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfoInputs.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfo.cs
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CoreCompileInputs.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CopyComplete
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
