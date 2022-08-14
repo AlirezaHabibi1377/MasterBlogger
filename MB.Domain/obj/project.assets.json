@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "MB.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MB.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.Application.Contracts.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MB.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../MB.Application.Contracts/MB.Application.Contracts.csproj",
+      "msbuildProject": "../MB.Application.Contracts/MB.Application.Contracts.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "MB.Application.Contracts >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\padidar\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\AllProject_Asp.NET_2019\\examples\\MasterBlogger3\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
+              "projectPath": "D:\\AllProject_Asp.NET_2019\\examples\\MasterBlogger3\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

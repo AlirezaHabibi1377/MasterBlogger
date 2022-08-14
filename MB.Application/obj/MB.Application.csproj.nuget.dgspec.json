@@ -142,7 +142,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\AllProject_Asp.NET_2019\\examples\\MasterBlogger3\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
+                "projectPath": "D:\\AllProject_Asp.NET_2019\\examples\\MasterBlogger3\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -8,3 +8,6 @@ D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreap
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.CoreCompileInputs.cache
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.dll
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.CopyComplete

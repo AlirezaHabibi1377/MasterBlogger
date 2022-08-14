@@ -14,3 +14,5 @@ D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\bin\
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.csproj.AssemblyReference.cache
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.csproj.CopyComplete
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.genruntimeconfig.cache
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
