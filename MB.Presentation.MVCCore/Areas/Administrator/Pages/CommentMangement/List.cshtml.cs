@@ -22,5 +22,17 @@ namespace MB.Presentation.MVCCore.Areas.Administrator.Pages.CommentMangement
         {
           Comments = _commentApplication.GetList();
         }
+
+        public RedirectToPageResult OnPostRemove(long id)
+        {
+            _commentApplication.Cancel(id);
+            return RedirectToPage("./List");
+        }
+
+        public RedirectToPageResult OnPostActivate(long id)
+        {
+            _commentApplication.Confirm(id);
+            return RedirectToPage("./List");
+        }
     }
 }
