@@ -91,3 +91,4 @@ D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Presentation.MVCCore\obj\D
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\Edit.cshtml.g.cs
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
 D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+D:\AllProject_Asp.NET_2019\examples\MasterBlogger3\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\CommentMangement\List.cshtml.g.cs

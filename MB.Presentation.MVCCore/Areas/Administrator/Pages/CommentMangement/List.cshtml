@@ -1,0 +1,73 @@
+﻿@page
+@using MB.Domain.CommentAgg
+@model MB.Presentation.MVCCore.Areas.Administrator.Pages.CommentMangement.ListModel
+@{
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="float-left">Comments List</h3>
+    </div>
+    <div class="card-body">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Message</th>
+                    <th>Article</th>
+                    <th>Status</th>
+                    <th>CreationDate</th>
+                    <th>Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var article in Model.Comments)
+                {
+                    <tr>
+                        <td>@article.Id</td>
+                        <td>@article.Name</td>
+                        <td>@article.Email</td>
+                        <td>@article.Message</td>
+                        <td>@article.Article</td>
+                        <td>
+                            @if (article.Status == Statuses.New)
+                            {
+                                <i class="fa fa-eye fa-2x text-info"></i>
+                            }
+                            @if (article.Status == Statuses.Canceled)
+                            {
+                                <i class="fa fa-close fa-2x text-danger"></i>
+                            }
+                            @if (article.Status == Statuses.Confirmed)
+                            {
+                                <i class="fa fa-check fa-2x text-success"></i>
+                            }
+
+                        </td>
+                        <td>@article.CreationDate</td>
+                        @*<td>
+                            <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@article.Id">Edit</a>
+                            @if (article.IsDeleted)
+                            {
+                                <form method="post" asp-page-handler="Activate" class="float-left">
+                                    <button class="btn btn-success">Activate</button>
+                                    <input type="hidden" name="id" value="@article.Id" />
+                                </form>
+                            }
+                            else
+                            {
+                                <form method="post" asp-page-handler="Remove" class="float-left">
+                                    <button class="btn btn-danger">Remove</button>
+                                    <input type="hidden" name="id" value="@article.Id" />
+                                </form>
+                            }
+
+                        </td>*@
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
