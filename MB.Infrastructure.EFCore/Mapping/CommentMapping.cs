@@ -17,10 +17,11 @@ namespace MB.Infrastructure.EFCore.Mapping
             builder.Property(x => x.Email);
             builder.Property(x => x.Message);
             builder.Property(x => x.Status);
-
+            builder.Property(x => x.CreationDate);
+            
             builder.HasOne(x => x.Article)
                 .WithMany(x => x.Comments)
-                .HasForeignKey(x => x.ArticleId);
+                .HasForeignKey(x => x.ArticleId1);
         }
     }
 }

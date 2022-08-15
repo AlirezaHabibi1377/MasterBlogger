@@ -1,6 +1,7 @@
 ﻿//using MB.Application.Contracts.Comment;
 //using MB.Infrastructure.Query;
 
+using MB.Application.Contracts.Comment;
 using MB.Domain.ArticleAgg;
 using MB.Infrastructure.Query;
 using Microsoft.AspNetCore.Mvc;
@@ -10,19 +11,28 @@ namespace MB.Presentation.MVCCore.Pages
 {
     public class ArticleDetailsModel : PageModel
     {
-        private readonly IArticleQuery _articleQuery;
         public ArticleQueryView Article { get; set; }
-        public ArticleDetailsModel(IArticleQuery articleQuery)
+
+        private readonly IArticleQuery _articleQuery;
+        private readonly ICommentApplication _commentApplication;
+
+        public ArticleDetailsModel(IArticleQuery articleQuery, ICommentApplication commentApplication)
         {
             _articleQuery = articleQuery;
+            _commentApplication = commentApplication;
         }
 
         public void OnGet(long id)
         {
             Article = _articleQuery.GetArticle(id);
-
         }
 
-       
+        public RedirectToPageResult OnPost(AddComment command)
+        {
+            _commentApplication.Add(command);
+            return RedirectToPage("./ArticleDetails", new { id = command.ArticleId1});
+        }
+
+
     }
 }

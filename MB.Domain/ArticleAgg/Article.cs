@@ -17,8 +17,8 @@ namespace MB.Domain.ArticleAgg
         public DateTime CreationDate { get; private set; }
         public long ArticleCategoryId { get; private set; }
         public ArticleCategory ArticleCategory { get; private set; }
-        public ICollection<Comment> Comments { get; set; }
-        public Comment Comment { get; set; }
+        public ICollection<Comment> Comments { get; private set; }
+        public Comment Comment { get; private set; }
         protected Article()
         {
         }
