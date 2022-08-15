@@ -16,14 +16,14 @@
                         <div class="post-details">
                             <div class="post-meta d-flex justify-content-between">
                                 <div class="date meta-last">@article.CreationDate</div>
-                                <div class="category"><a href="#">@article.ArticleCategory</a></div>
+                                <div class="category"><a asp-page="/ArticleDetails" asp-route-id="@article.Id">@article.ArticleCategory</a></div>
                             </div>
-                            <a asp-page="/ArticleDetails" asp-route-id="1">
+                            <a asp-page="/ArticleDetails" asp-route-id="@article.Id">
                                 <h3 class="h4">@article.Title</h3>
                             </a>
                             <p class="text-muted">@article.ShortDescription</p>
                             <footer class="post-footer d-flex align-items-center">
-                                <a href="#" class="author d-flex align-items-center flex-wrap">
+                                <a asp-page="/ArticleDetails" asp-route-id="@article.Id" class="author d-flex align-items-center flex-wrap">
                                     <div class="avatar"><img src="img/avatar-3.jpg" alt="..." class="img-fluid"></div>
                                     <div class="title"><span>John Doe</span></div>
                                 </a>
